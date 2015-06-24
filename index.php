@@ -4,7 +4,9 @@
 	    <div class="pure-u pure-u-md-1-5"></div>
 		<main id="main" class="site-main pure-u-1 pure-u-md-3-5" role="main">
 
-		<h1 class="site-title">maimai travel</h1>
+		<h1 class="site-title">
+			<a href="/"><span>maimai travel</span></a>
+		</h1>
 
 		<?php if ( have_posts() ) : ?>
 
