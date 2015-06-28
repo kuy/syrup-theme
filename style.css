@@ -15,6 +15,7 @@ h1.site-title {
 h1.site-title a span {
     font: 0/0 a;
     background: white url(images/logo.png) no-repeat top center;
+    background-size: 112px 48px;
     height: 48px;
     width: 100%;
     display: block;
