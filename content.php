@@ -2,7 +2,7 @@
 
 	<header class="entry-header">
 		<?php
-			if ( is_single() ) :
+			if ( is_single() || is_page() ) :
 				the_title( '<h2 class="entry-title">', '</h2>' );
 			endif;
 		?>
