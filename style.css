@@ -25,6 +25,12 @@ h2.entry-title, h2.page-title {
     font-size: 1.2em;
 }
 
+a {
+    color: black;
+    border-bottom: 1px dotted black;
+    text-decoration: none;
+}
+
 #main {
     padding: 0 12px;
 }
@@ -33,4 +39,14 @@ h2.entry-title, h2.page-title {
     display: block;
     margin-right: auto;
     margin-left: auto;
+}
+
+footer .site-info {
+    padding-top: 1.25em;
+    text-align: center;
+    font-size: 0.85em;
+}
+
+.sep {
+    padding: 0 4px;
 }
