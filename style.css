@@ -42,7 +42,7 @@ a {
 }
 
 footer .site-info {
-    padding-top: 1.25em;
+    padding: 1.25em 0 0.65em;
     text-align: center;
     font-size: 0.85em;
 }
